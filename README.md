@@ -86,13 +86,13 @@ python -m pip install ollama
 From the project root, run:
 
 ```bash
-python chp1/chp1_chatbot_1.py
+python chp1/chp5_chatbot_1.py
 ```
 
 Or run the improved version:
 
 ```bash
-python chp1/chp1_chatbot_2.py
+python chp1/chp5_chatbot_2.py
 ```
 
 Make sure Ollama is installed, the model is available locally, and the Ollama service is running.
